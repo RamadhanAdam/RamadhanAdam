@@ -11,10 +11,10 @@ AI researcher and data scientist with expertise spanning machine learning, cyber
 ---
 
 ## What I Do
-##  MLOps & Cloud Infrastructure
+
+**MLOps & Cloud Infrastructure**
 
 Production-grade ML deployment systems and cloud-native infrastructure engineering.
-
 - Kubernetes (k3d, GKE)
 - GitHub Actions CI/CD pipelines
 - Docker containerization & image optimization
@@ -25,8 +25,9 @@ Production-grade ML deployment systems and cloud-native infrastructure engineeri
 - Secrets management with SOPS + Age encryption
 - Prometheus, Grafana, Loki observability stack
 - Cloud-native logging & monitoring pipelines
+- 
 **Artificial Intelligence & Machine Learning**
-- Deep learning architectures (CNNs, Transformers, RNNs)
+- Deep learning architectures (CNNs, Transformers, RNNs, RL)
 - Self-supervised learning and few-shot adaptation
 - Computer vision for industrial applications
 - Natural language processing and transformers
