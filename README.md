@@ -1,6 +1,6 @@
 # Ramadhan Adam Zome
 
-**AI/ML Researcher** |  **Malware Analyst & Reverse Engineer** **Data Scientist** |
+**AI/ML Researcher** | **MLOps & Cloud Engineer** | **Malware Analyst & Reverse Engineer** | **Data Scientist**
 
 ---
 
@@ -11,7 +11,20 @@ AI researcher and data scientist with expertise spanning machine learning, cyber
 ---
 
 ## What I Do
+##  MLOps & Cloud Infrastructure
 
+Production-grade ML deployment systems and cloud-native infrastructure engineering.
+
+- Kubernetes (k3d, GKE)
+- GitHub Actions CI/CD pipelines
+- Docker containerization & image optimization
+- Helm & Kustomize for package management
+- Gateway API & Ingress routing
+- Horizontal Pod Autoscaling (HPA)
+- PostgreSQL (StatefulSet-backed persistence)
+- Secrets management with SOPS + Age encryption
+- Prometheus, Grafana, Loki observability stack
+- Cloud-native logging & monitoring pipelines
 **Artificial Intelligence & Machine Learning**
 - Deep learning architectures (CNNs, Transformers, RNNs)
 - Self-supervised learning and few-shot adaptation
@@ -141,6 +154,16 @@ Comprehensive malware analysis reports including static/dynamic analysis, revers
 **[Pathfinding Robot Simulation](https://github.com/RamadhanAdam/pathfinding-robot)**  
 Implementation of A* and Dijkstra algorithms with dynamic obstacle avoidance. Visualization of optimal path computation in real-time.
 
+**ML Deployment Project (Kubernetes MLOps)**
+
+Production-style FastAPI ML API deployed on k3d and GKE featuring:
+
+- Gateway API-based routing
+- StatefulSet-backed PostgreSQL
+- Horizontal Pod Autoscaling
+- SOPS-encrypted secrets
+- Prometheus, Grafana, Loki monitoring stack
+- GitHub Actions CI/CD deployment pipeline
 ---
 
 ## Research Focus
