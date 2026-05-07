@@ -59,7 +59,7 @@ MSc AI & ML student at PAUSTI (Nairobi). I build deep learning systems, apply AI
 | **[Malware Analysis Labs](https://github.com/RamadhanAdam/Malware-analysis-labs)** | Static/dynamic analysis, IOCs, YARA rules. |
 | **[AI from First Principles](https://github.com/RamadhanAdam/buildneural)** | Neural nets in C (Elman RNN + genetic algorithm). |
 
-➡️ [All projects on GitHub](https://github.com/RamadhanAdam?tab=repositories)
+[All projects on GitHub](https://github.com/RamadhanAdam?tab=repositories)
 
 ---
 
