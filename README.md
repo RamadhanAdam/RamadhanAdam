@@ -61,12 +61,6 @@ MSc AI & ML student at PAUSTI (Nairobi). I build deep learning systems, apply AI
 
 [All projects on GitHub](https://github.com/RamadhanAdam?tab=repositories)
 
----
-
-## Research Focus
-
-**MSc Thesis:** *Open‑World Windows Malware Detection using Self‑Supervised Binary Embeddings and Few‑Shot Learning*  
-— Detecting novel malware families with limited labeled samples via self‑supervised representation learning.
 
 ---
 
