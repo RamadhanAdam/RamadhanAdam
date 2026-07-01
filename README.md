@@ -11,7 +11,7 @@
 
 ## About Me
 
-MSc AI & ML student at PAUSTI (Nairobi). I build deep learning systems, apply AI to cybersecurity (malware detection, threat intelligence), and practice reverse engineering and binary analysis. Current research: open-world malware classification using self‑supervised binary embeddings and few‑shot learning.
+MSc AI & ML student at PAUSTI (Nairobi). I build deep learning systems, apply AI to cybersecurity (malware detection, threat intelligence), and practice reverse engineering and binary analysis. 
 
 ---
 ## GitHub Stats
