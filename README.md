@@ -25,10 +25,9 @@ MSc AI & ML student at PAUSTI (Nairobi). I build deep learning systems, apply AI
 ---
 
 ## Tech Stack (compact)
-
-![NASM](https://shields.io) ![C](https://shields.io)
+![NASM](https://img.shields.io/badge/Assembly-NASM-blue)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://shields.io)
+![C](https://img.shields.io/badge/Language-C-A8B9CC?logo=c&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
