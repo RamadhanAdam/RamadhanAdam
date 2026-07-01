@@ -1,6 +1,6 @@
 # Ramadhan Adam Zome
 
-**AI for Security Researcher** | **Malware Analyst** | **MLOps  Engineer** 
+**AI Security Researcher** | **Malware Analyst** | **MLOps  Engineer** 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ramadhanzome4@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RamadhanAdam)
