@@ -14,11 +14,6 @@
 MSc AI & ML student at PAUSTI (Nairobi). I build deep learning systems, apply AI to cybersecurity (malware detection, threat intelligence), and practice reverse engineering and binary analysis. 
 
 ---
-## GitHub Stats
-
-![GitHub Stats](https://ghstats.dev/api/card?username=RamadhanAdam)
-
----
 
 ## Research & Engineering
 
@@ -70,6 +65,10 @@ MSc AI & ML student at PAUSTI (Nairobi). I build deep learning systems, apply AI
 
 [All projects on GitHub](https://github.com/RamadhanAdam?tab=repositories)
 
+---
+## GitHub Stats
+
+![GitHub Stats](https://ghstats.dev/api/card?username=RamadhanAdam)
 
 ---
 
