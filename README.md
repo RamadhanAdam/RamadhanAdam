@@ -26,7 +26,9 @@ MSc AI & ML student at PAUSTI (Nairobi). I build deep learning systems, apply AI
 
 ## Tech Stack (compact)
 
+![NASM](https://shields.io) ![C](https://shields.io)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://shields.io)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -34,6 +36,7 @@ MSc AI & ML student at PAUSTI (Nairobi). I build deep learning systems, apply AI
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Ghidra](https://img.shields.io/badge/Ghidra-ED1C24?style=flat-square&logo=ghidra&logoColor=white)
+
 
 <details>
 <summary>🔧 More tools (click to expand)</summary>
@@ -53,6 +56,7 @@ MSc AI & ML student at PAUSTI (Nairobi). I build deep learning systems, apply AI
 | Project | Description |
 |---------|-------------|
 | **[Phish Transformer](https://github.com/RamadhanAdam/phish-transformer)** | Transformer‑based phishing URL detection. |
+| **[Raw PE(PE File](https://github.com/RamadhanAdam/raw-pe)** | Windows 32+ executable file from scratch using x86-64 assembly (NASM) |
 | **[Steel Defect Detection](https://github.com/RamadhanAdam/Steel_Defect_Detector_CNN)** | CNN for industrial surface defect classification. |
 | **[Swahili GPT](https://github.com/RamadhanAdam/swahili-gpt)** | Character‑level GPT trained on 65M Swahili characters. |
 | **[Deepfake RAG](https://github.com/RamadhanAdam/deepfake-rag)** | Xception CNN + RAG explainability (HF Spaces). |
@@ -66,7 +70,7 @@ MSc AI & ML student at PAUSTI (Nairobi). I build deep learning systems, apply AI
 
 ## Writing
 
-I write about AI, ML, data science, and malware analysis on [Medium](https://medium.com/@ramadhanzome4).
+I write about AI Security, Reverse Engineering, and malware analysis on [Medium](https://medium.com/@ramadhanzome4).
 
 ---
 
