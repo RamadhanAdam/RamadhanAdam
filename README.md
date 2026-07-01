@@ -1,6 +1,6 @@
 # Ramadhan Adam Zome
 
-**AI/ML Researcher** | **MLOps & Cloud Engineer** | **Malware Analyst** | **Data Scientist**
+**AI for Security Researcher** | **Malware Analyst** | **MLOps  Engineer** 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ramadhanzome4@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RamadhanAdam)
@@ -14,8 +14,13 @@
 MSc AI & ML student at PAUSTI (Nairobi). I build deep learning systems, apply AI to cybersecurity (malware detection, threat intelligence), and practice reverse engineering and binary analysis. Current research: open-world malware classification using self‑supervised binary embeddings and few‑shot learning.
 
 ---
+## GitHub Stats
 
-## What I Do (TL;DR)
+![Ramadhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamadhanAdam&show_icons=true&hide_border=true&rank_icon=github)
+
+---
+
+## Research & Engineering
 
 - **MLOps & Cloud** – Kubernetes (k3d/GKE), GitHub Actions, Docker, Helm, Prometheus/Grafana/Loki, PostgreSQL, SOPS
 - **AI/ML** – Deep learning (CNNs, Transformers, RNNs), self‑supervised learning, few‑shot learning, computer vision, NLP
@@ -25,11 +30,12 @@ MSc AI & ML student at PAUSTI (Nairobi). I build deep learning systems, apply AI
 ---
 
 ## Tech Stack (compact)
-![NASM](https://img.shields.io/badge/Assembly-NASM-blue)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/Language-C-A8B9CC?logo=c&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![C](https://img.shields.io/badge/Language-C-A8B9CC?logo=c&logoColor=white)
+![NASM](https://img.shields.io/badge/Assembly-NASM-blue)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
@@ -55,7 +61,7 @@ MSc AI & ML student at PAUSTI (Nairobi). I build deep learning systems, apply AI
 | Project | Description |
 |---------|-------------|
 | **[Phish Transformer](https://github.com/RamadhanAdam/phish-transformer)** | Transformer‑based phishing URL detection. |
-| **[Raw PE(PE File](https://github.com/RamadhanAdam/raw-pe)** | Windows 32+ executable file from scratch using x86-64 assembly (NASM) |
+| **[Raw PE (Portable Executable)](https://github.com/RamadhanAdam/raw-pe)** | Windows 32+ executable file from scratch using x86-64 assembly (NASM) |
 | **[Steel Defect Detection](https://github.com/RamadhanAdam/Steel_Defect_Detector_CNN)** | CNN for industrial surface defect classification. |
 | **[Swahili GPT](https://github.com/RamadhanAdam/swahili-gpt)** | Character‑level GPT trained on 65M Swahili characters. |
 | **[Deepfake RAG](https://github.com/RamadhanAdam/deepfake-rag)** | Xception CNN + RAG explainability (HF Spaces). |
