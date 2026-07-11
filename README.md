@@ -71,6 +71,9 @@ MSc AI & ML student at PAUSTI (Nairobi). I build deep learning systems, apply AI
 ![GitHub Stats](https://ghstats.dev/api/card?username=RamadhanAdam)
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamadhanAdam)
+
+---
 
 ## Writing
 
