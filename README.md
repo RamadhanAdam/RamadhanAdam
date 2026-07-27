@@ -50,9 +50,6 @@ MSc AI & ML student at PAUSTI (Nairobi). I build deep learning systems, apply AI
 </details>
 
 ---
-
-## Featured Projects
-
 ## Featured Projects
 | Project | Description |
 |---------|-------------|
@@ -67,9 +64,9 @@ MSc AI & ML student at PAUSTI (Nairobi). I build deep learning systems, apply AI
 [All projects on GitHub](https://github.com/RamadhanAdam?tab=repositories)
 
 ---
-## GitHub Stats
+## Contribution Activity
 
-![GitHub Stats](https://ghstats.dev/api/card?username=RamadhanAdam)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RamadhanAdam&theme=tokyo-night&hide_border=true&area=true)](https://github.com/RamadhanAdam)
 
 ---
 
