@@ -53,14 +53,15 @@ MSc AI & ML student at PAUSTI (Nairobi). I build deep learning systems, apply AI
 
 ## Featured Projects
 
+## Featured Projects
 | Project | Description |
 |---------|-------------|
-| **[Phish Transformer](https://github.com/RamadhanAdam/phish-transformer)** | Transformer‑based phishing URL detection. |
-| **[Raw PE (Portable Executable)](https://github.com/RamadhanAdam/raw-pe)** | Windows 32+ executable file from scratch using x86-64 assembly (NASM) |
-| **[Steel Defect Detection](https://github.com/RamadhanAdam/Steel_Defect_Detector_CNN)** | CNN for industrial surface defect classification. |
-| **[Swahili GPT](https://github.com/RamadhanAdam/swahili-gpt)** | Character‑level GPT trained on 65M Swahili characters. |
-| **[Deepfake RAG](https://github.com/RamadhanAdam/deepfake-rag)** | Xception CNN + RAG explainability (HF Spaces). |
+| **[sco-pe](https://github.com/RamadhanAdam/sco-pe)** | PE file parser in C for malware analysis and reverse engineering. |
+| **[Raw PE (Portable Executable)](https://github.com/RamadhanAdam/raw-pe)** | Windows PE executable built from scratch using x86-64 assembly (NASM). |
 | **[Malware Analysis Labs](https://github.com/RamadhanAdam/Malware-analysis-labs)** | Static/dynamic analysis, IOCs, YARA rules. |
+| **[Deepfake RAG](https://github.com/RamadhanAdam/deepfake-rag)** | Xception CNN + RAG explainability (HF Spaces). |
+| **[Steel Defect Detection](https://github.com/RamadhanAdam/Steel_Defect_Detector_CNN)** | CNN for industrial surface defect classification. |
+| **[Phish Transformer](https://github.com/RamadhanAdam/phish-transformer)** | Transformer‑based phishing URL detection. |
 | **[AI from First Principles](https://github.com/RamadhanAdam/buildneural)** | Neural nets in C (Elman RNN + genetic algorithm). |
 
 [All projects on GitHub](https://github.com/RamadhanAdam?tab=repositories)
