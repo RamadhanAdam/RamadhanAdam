@@ -51,15 +51,16 @@ MSc AI & ML student at PAUSTI (Nairobi). I build deep learning systems, apply AI
 
 ---
 ## Featured Projects
-| Project | Description |
-|---------|-------------|
-| **[sco-pe](https://github.com/RamadhanAdam/sco-pe)** | PE file parser in C for malware analysis and reverse engineering. |
-| **[Raw PE (Portable Executable)](https://github.com/RamadhanAdam/raw-pe)** | Windows PE executable built from scratch using x86-64 assembly (NASM). |
-| **[Malware Analysis Labs](https://github.com/RamadhanAdam/Malware-analysis-labs)** | Static/dynamic analysis, IOCs, YARA rules. |
-| **[Deepfake RAG](https://github.com/RamadhanAdam/deepfake-rag)** | Xception CNN + RAG explainability (HF Spaces). |
-| **[Steel Defect Detection](https://github.com/RamadhanAdam/Steel_Defect_Detector_CNN)** | CNN for industrial surface defect classification. |
-| **[Phish Transformer](https://github.com/RamadhanAdam/phish-transformer)** | Transformer‑based phishing URL detection. |
-| **[AI from First Principles](https://github.com/RamadhanAdam/buildneural)** | Neural nets in C (Elman RNN + genetic algorithm). |
+
+| Project | Focus | Highlights |
+|---------|-------|------------|
+| **[sco-pe](https://github.com/RamadhanAdam/sco-pe)** | Malware Analysis | Lightweight PE parser in C for inspecting Windows Portable Executable files. |
+| **[Raw PE](https://github.com/RamadhanAdam/raw-pe)** | Reverse Engineering | Built a Windows PE executable entirely from x86-64 assembly to understand the PE format from first principles. |
+| **[Malware Analysis Labs](https://github.com/RamadhanAdam/Malware-analysis-labs)** | Threat Analysis | Hands-on malware analysis reports, IOCs, YARA rules, and reverse engineering exercises. |
+| **[Deepfake RAG](https://github.com/RamadhanAdam/deepfake-rag)** | AI Security | Deepfake detection with Xception CNN and retrieval-augmented explanations. |
+| **[Phish Transformer](https://github.com/RamadhanAdam/phish-transformer)** | Machine Learning | Transformer-based phishing URL detection. |
+| **[BuildNeural](https://github.com/RamadhanAdam/buildneural)** | Deep Learning | Neural networks implemented from scratch, from perceptrons to CNNs and recurrent models. |
+| **[Steel Defect Detector](https://github.com/RamadhanAdam/Steel_Defect_Detector_CNN)** | Computer Vision | Industrial defect classification using CNNs and transfer learning. |
 
 [All projects on GitHub](https://github.com/RamadhanAdam?tab=repositories)
 
