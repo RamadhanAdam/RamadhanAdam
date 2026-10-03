@@ -47,14 +47,6 @@ I work where machine learning meets malware. I train models to detect threats, r
 
 ---
 
-## Currently
-
-- **Open-world malware detection** (MSc thesis): a byte-level encoder that reads Windows programs by their PE structure, pretrained on SOREL-20M, that can say "unknown" when it sees a family it hasn't met. Code is private until the thesis is done.
-- **[GraMa](https://github.com/RamadhanAdam/grama)**: federated intrusion detection for in-vehicle CAN traffic, with graph attention over CAN IDs, Mamba over time, and HDBSCAN on the server to keep poisoned vehicles out.
-- **Talk**: open-world malware detection at the Chugoku-section joint conference of electrical and information engineers, Hiroshima, 17 October 2026.
-
----
-
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
