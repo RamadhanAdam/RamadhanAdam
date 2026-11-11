@@ -1,0 +1,20 @@
+name: update recent articles
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@ramadhanzome4"
+          max_post_count: 3
+          template: "- [$title]($url)$newline"
+          item_exec: "post.url = post.url.split('?')[0];"
+          user_agent: "Mozilla/5.0"
+          commit_message: "Update recent articles"
