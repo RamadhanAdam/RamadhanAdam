@@ -41,7 +41,7 @@
 
 ## About Me
 
-MSc AI & ML student at PAUSTI, and until January 2027 a special research student in the Dependable Systems Laboratory at Hiroshima University.
+MSc AI & ML student at PAUSTI, and a special research student in the Dependable Systems Laboratory at Hiroshima University.
 
 I work where machine learning meets malware. I train models to detect threats, reverse engineer binaries to understand what those models miss, and build the infrastructure to run it all in production. Lately I'm also looking further down the stack: GPU memory, Rowhammer, and side channels that leak what a model computes.
 
