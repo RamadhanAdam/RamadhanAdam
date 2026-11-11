@@ -89,15 +89,6 @@ I work where machine learning meets malware. I train models to detect threats, r
 
 ---
 
-## Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RamadhanAdam/RamadhanAdam/output/snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/RamadhanAdam/RamadhanAdam/output/snake.svg">
-</picture>
-
----
-
 ## Writing
 
 I write about AI security, reverse engineering, malware analysis and GPU hardware on [Medium](https://medium.com/@ramadhanzome4), plus a series on AI from first principles. Recent:
