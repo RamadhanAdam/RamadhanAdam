@@ -14,7 +14,7 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@ramadhanzome4"
           max_post_count: 3
-          template: "- [$title]($url)$newline"
+          template: "$newline- [$title]($url)"
           item_exec: "post.url = post.url.split('?')[0];"
           user_agent: "Mozilla/5.0"
           commit_message: "Update recent articles"
