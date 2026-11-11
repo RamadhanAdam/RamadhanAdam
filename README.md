@@ -100,11 +100,11 @@ I work where machine learning meets malware. I train models to detect threats, r
 
 ## Writing
 
-I write about AI security, reverse engineering, malware analysis and GPU hardware on [Medium](https://medium.com/@ramadhanzome4). Recent:
+I write about AI security, reverse engineering, malware analysis and GPU hardware on [Medium](https://medium.com/@ramadhanzome4), plus a series on AI from first principles. Recent:
 
+- [Your Model Could Keep Learning. Here's Why It Doesn't.](https://medium.com/@ramadhanzome4/your-model-could-keep-learning-heres-why-it-doesn-t-a158236031cd)
+- [The Pioneers Are Betting Against LLMs](https://medium.com/@ramadhanzome4/the-pioneers-are-betting-against-llms-0be8c29c5de2)
 - [GPU DRAM Architecture, Explained Simply](https://medium.com/genaitrail/gpu-dram-architecture-explained-simply-a4eb4c4d8dcb)
-- [RWX Memory in Windows: What Read, Write, and Execute Really Mean](https://medium.com/@ramadhanzome4/rwx-memory-in-windows-what-read-write-and-execute-really-mean-4897c49d3b76)
-- [I Wrote a Windows PE File From Scratch, in Assembly](https://medium.com/@ramadhanzome4/i-wrote-a-windows-pe-file-from-scratch-in-assembly-d011cb0097cb)
 
 ---
 
